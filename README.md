@@ -55,13 +55,11 @@ I'm an Integrated M.Tech Cyber Security student passionate about securing system
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsambi\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsambi&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=itsambi\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=itsambi&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsambi\&layout=compact\&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsambi\&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsambi&layout=compact&theme=tokyonight)
 
 ---
 
