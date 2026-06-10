@@ -44,23 +44,4 @@ I'm an Integrated M.Tech Cyber Security student passionate about securing system
 
 ---
 
-## 🚀 Current Focus
-
-* Building DFIR Tools
-* Malware Analysis & Reverse Engineering
-* Security Automation with Python
-* DSA & Problem Solving
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsambi&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=itsambi&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsambi&layout=compact&theme=tokyonight)
-
----
-
 ⭐ *Always learning, building, and exploring the world of cybersecurity.*
