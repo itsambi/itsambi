@@ -4,22 +4,19 @@
 
 I'm an Integrated M.Tech Cyber Security student passionate about securing systems, investigating cyber incidents, and building practical security solutions.
 
-My interests include:
+🚀 Interests:
 
-* Web Application Security
 * Digital Forensics & Incident Response (DFIR)
 * Malware Analysis
-* Vulnerability Assessment & Penetration Testing
+* Web Application Security
 * Machine Learning for Cybersecurity
-* Secure Software Development
-
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: [ambika.dayma2301@gmail.com](mailto:ambika.dayma2301@gmail.com)
+📧 **Email:** [ambika.dayma2301@gmail.com](mailto:ambika.dayma2301@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/ambika-sharma-6a3517250/
+💼 **LinkedIn:** https://www.linkedin.com/in/ambika-sharma-6a3517250/
 
 ---
 
@@ -36,48 +33,36 @@ My interests include:
 * Web Security
 * Network Security
 * Vulnerability Assessment
-* Incident Response
 
 ### Tools & Technologies
 
-* Git & GitHub
 * Linux
+* Git & GitHub
+* MySQL
 * Pandas
 * Scikit-learn
-* MySQL
-* Canva
 
 ---
 
 ## 🚀 Current Focus
 
-* Building Digital Forensics Projects
-* Strengthening DSA & Problem Solving
-* Exploring Malware Analysis Techniques
-* Learning Advanced Penetration Testing Methodologies
-* Contributing to Open-Source Security Projects
+* Building DFIR Tools
+* Malware Analysis & Reverse Engineering
+* Security Automation with Python
+* DSA & Problem Solving
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<!-- GitHub Readme Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsambi\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
 
-<!-- Replace 'itsambi' if your username changes -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsambi\&show_icons=true\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=itsambi\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsambi\&layout=compact\&theme=tokyonight)
 
----
-
-## 📌 Featured Projects
-
-* DFIR Toolkit
-* Malware Analysis Labs
-* Security Automation Scripts
-* Machine Learning Security Projects
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsambi\&theme=tokyo-night)
 
 ---
 
-⭐ Always learning, building, and exploring the world of cybersecurity.
+⭐ *Always learning, building, and exploring the world of cybersecurity.*
