@@ -1,6 +1,7 @@
 # Hi there, I'm Ambika! 👋
 
-> **Cybersecurity Student ** > Specializing in Web Application Security, Malware Analysis, and Digital Forensics. Passionate about vulnerability assessment, building ML-driven security solutions, and structured penetration testing.
+> **Cybersecurity Student & Developer**
+> Specializing in Web Application Security, Malware Analysis, and Digital Forensics. Passionate about vulnerability assessment, building ML-driven security solutions, and structured penetration testing.
 
 ---
 
@@ -22,7 +23,7 @@
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsambi&theme=dark&show_icons=true&count_private=true" alt="Ambika's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsambi&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="Ambika's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsambi&theme=dark&layout=compact" alt="Top Languages" height="165" />
 </p>
 
