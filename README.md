@@ -1,25 +1,83 @@
-# Hi there, I'm Ambika! 👋
+# Hi there, I'm Ambika 👋
 
-> **Cybersecurity Student **
-> Specializing in Web Application Security, Malware Analysis, and Digital Forensics. Passionate about vulnerability assessment, building ML-driven security solutions, and structured penetration testing.
+### 🔐 Cybersecurity & Digital Forensics Enthusiast
 
----
+I'm an Integrated M.Tech Cyber Security student passionate about securing systems, investigating cyber incidents, and building practical security solutions.
 
-### 🌐 Connect With Me
+My interests include:
 
-* **LinkedIn:** [linkedin.com/in/ambika-sharma-6a3517250](https://www.linkedin.com/in/ambika-sharma-6a3517250/)
-* **Email:** [ambika.dayma2301@gmail.com](mailto:ambika.dayma2301@gmail.com)
-
----
-
-### 💻 Technical Toolkit
-
-* **Languages & Databases:** Python, MySQL
-* **Data Science & ML:** Pandas, Scikit-learn
-* **Design & Tools:** Canva, Git
+* Web Application Security
+* Digital Forensics & Incident Response (DFIR)
+* Malware Analysis
+* Vulnerability Assessment & Penetration Testing
+* Machine Learning for Cybersecurity
+* Secure Software Development
 
 ---
 
-### 📊 GitHub Activity
+## 🌐 Connect With Me
 
-```👇 This native feature will display your real, live repository data instantly
+📧 Email: [ambika.dayma2301@gmail.com](mailto:ambika.dayma2301@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/ambika-sharma-6a3517250/
+
+---
+
+## 💻 Technical Skills
+
+### Programming
+
+* Python
+* SQL
+
+### Cybersecurity
+
+* Digital Forensics
+* Web Security
+* Network Security
+* Vulnerability Assessment
+* Incident Response
+
+### Tools & Technologies
+
+* Git & GitHub
+* Linux
+* Pandas
+* Scikit-learn
+* MySQL
+* Canva
+
+---
+
+## 🚀 Current Focus
+
+* Building Digital Forensics Projects
+* Strengthening DSA & Problem Solving
+* Exploring Malware Analysis Techniques
+* Learning Advanced Penetration Testing Methodologies
+* Contributing to Open-Source Security Projects
+
+---
+
+## 📊 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+
+<!-- Replace 'itsambi' if your username changes -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsambi\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsambi\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📌 Featured Projects
+
+* DFIR Toolkit
+* Malware Analysis Labs
+* Security Automation Scripts
+* Machine Learning Security Projects
+
+---
+
+⭐ Always learning, building, and exploring the world of cybersecurity.
