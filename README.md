@@ -1,6 +1,6 @@
 # Hi there, I'm Ambika! 👋
 
-> **Cybersecurity Student & Developer**
+> **Cybersecurity Student **
 > Specializing in Web Application Security, Malware Analysis, and Digital Forensics. Passionate about vulnerability assessment, building ML-driven security solutions, and structured penetration testing.
 
 ---
@@ -20,17 +20,6 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsambi&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="Ambika's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsambi&theme=dark&layout=compact" alt="Top Languages" height="165" />
-</p>
-
-![](https://streak-stats.demolab.com/?user=itsambi&theme=dark)
-
----
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=itsambi&color=blue" alt="Profile Views" />
-</p>
+```👇 This native feature will display your real, live repository data instantly
