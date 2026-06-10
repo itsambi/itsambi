@@ -50,10 +50,7 @@ I'm an Integrated M.Tech Cyber Security student passionate about securing system
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsambi&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=itsambi&theme=tokyonight)
-
+![GitHub Contributions](https://img.shields.io/badge/dynamic/json?color=blue&label=Contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fitsambi)
 ---
 
 ⭐ *Always learning, building, and exploring the world of cybersecurity.*
