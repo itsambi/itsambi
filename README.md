@@ -1,15 +1,59 @@
-# 💫 About Me:
-Hi there, I'm Ambika 👋<br>🔐 Cybersecurity & Digital Forensics Enthusiast<br>I'm an Integrated M.Tech Cyber Security student passionate about securing systems, investigating cyber incidents, and building practical security solutions.<br><br>🚀 Interests:<br><br>Digital Forensics & Incident Response (DFIR)<br>Malware Analysis<br>Web Application Security<br>Machine Learning for Cybersecurity<br>🌐 Connect With Me<br>📧 Email: ambika.dayma2301@gmail.com<br><br>💼 LinkedIn: https://www.linkedin.com/in/ambika-sharma-6a3517250/<br><br>💻 Technical Skills<br>Programming<br>Python<br>SQL<br>Cybersecurity<br>Digital Forensics<br>Web Security<br>Network Security<br>Vulnerability Assessment<br>Tools & Technologies<br>Linux<br>Git & GitHub<br>MySQL<br>Pandas<br>Scikit-learn<br>⭐ Always learning, building, and exploring the world of cybersecurity.
+# Hi there, I'm Ambika 👋
 
+### 🔐 Cybersecurity & Digital Forensics Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ambika-sharma-6a3517250/) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=itsambi&theme=jolly&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=itsambi&theme=jolly&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsambi&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+I'm an Integrated M.Tech Cyber Security student passionate about securing systems, investigating cyber incidents, and building practical security solutions.
+
+🚀 Interests:
+
+* Digital Forensics & Incident Response (DFIR)
+* Malware Analysis
+* Web Application Security
+* Vulnerability Assessment & Penetration Testing
+* Machine Learning for Cybersecurity
+* Secure Software Development
 
 ---
-[![](https://komarev.com/ghpvc/?username=itsambi&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+📧 **Email:** [ambika.dayma2301@gmail.com](mailto:ambika.dayma2301@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/ambika-sharma-6a3517250/
+
+---
+
+## 💻 Technical Skills
+
+### Programming
+
+* Python
+* SQL
+
+### Cybersecurity
+
+* Digital Forensics
+* Web Security
+* Network Security
+* Vulnerability Assessment
+* Incident Response
+
+### Tools & Technologies
+
+* Linux
+* Git & GitHub
+* MySQL
+* Pandas
+* Scikit-learn
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsambi&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=itsambi&theme=tokyonight)
+
+---
+
+⭐ *Always learning, building, and exploring the world of cybersecurity.*
