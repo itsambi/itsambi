@@ -48,9 +48,4 @@ I'm an Integrated M.Tech Cyber Security student passionate about securing system
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Contributions](https://img.shields.io/badge/dynamic/json?color=blue&label=Contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fitsambi)
----
-
 ⭐ *Always learning, building, and exploring the world of cybersecurity.*
